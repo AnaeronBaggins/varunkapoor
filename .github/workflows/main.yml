@@ -1,0 +1,27 @@
+name: Jekyll Actions
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+ jekyll:
+  runs-on: ubuntu-latest
+  steps:
+   - uses: helaili/jekyll-action@2.5.0
+     with:
+# The GITHUB_TOKEN secret
+      token: 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
+
+
+# The target branch name the site gets pushed to
+      target_branch: main
+
+# Will build the Jekyll site without publishing it
+      build_only: false
+
+
+# Commands to run prior to build and deploy. Useful for ensuring build dependencies are up to date or installing  new dependencies. For example, use `apk --update add  imagemagick` to install ImageMagick.
+
+      
