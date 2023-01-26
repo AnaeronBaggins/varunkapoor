@@ -9,7 +9,7 @@ jobs:
  jekyll:
   runs-on: ubuntu-latest
   steps:
-   - uses: helaili/jekyll-action@c1527523361ec3ecc54b2371ddef44826e28c0f5
+   - uses: helaili/jekyll-action@2.5.0
      with:
 # The GITHUB_TOKEN secret
       token: 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
