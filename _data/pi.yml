@@ -1,0 +1,22 @@
+- name: Varun Kapoor
+  photo: headshot.jpg
+  info: Varun Kapoor
+  email: varun.kapoor1947@gmail.com
+  github: https://github.com/AnaeronBaggins
+  researchgate: https://www.researchgate.net/profile/Varun-Kapoor-6
+  scholar: https://scholar.google.com/citations?user=fmDD2pUAAAAJ&hl=en&oi=sra
+  cv: cv/cv.pdf
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 1
+  education1: "(2019) B.Tech. Computer Science and Engineering, Christ University"
+  #education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
+  # education3: 
+  # education4: 
+  # education5: 
+  # education6: 
+  education1short: (2019) B.Tech. CSE, CU
+  #education2short: (1939) B.S. Physics, MIT
+  # education3short: 
+  # education4short: 
+  # education5short: 
+  # education6short: 
